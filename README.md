@@ -1,7 +1,7 @@
 ### Hi I'm Mohamed 👋
 
 I'm a 26 years old web developper based in France.
-I enjoy discovering new tools and progressing on my learning journey.
+I enjoy discovering new tools and progressing on my learning journey, I'm currently taking courses on The Odin Project,ThreejsJourney and Full Stack Open ,  <!-- Check out my pinned repositories for my favorite creations.  -->
 
 # 🔧 Technologies & Tools
 
