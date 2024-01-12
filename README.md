@@ -46,12 +46,12 @@ I enjoy discovering new tools and progressing on my learning journey, I'm curren
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="MongoDB"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>MongoDB</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -93,33 +93,37 @@ I enjoy discovering new tools and progressing on my learning journey, I'm curren
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="Figma"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Figma</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
-        alt="Typescript"
+        alt="MySQL"
       />
-      <br /><strong>Typescript</strong>
+      <br /><strong>MySQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Redux"
+        alt="NodeJS"
       />
-      <br /><strong>Redux</strong>
+      <br /><strong>NodeJS</strong>
     </td>
+    </tr>
+    
+</table>
+    
   
-
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg
    <!--<p align="center"><b><em>Visitors Count</em></b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ro-yeee}/count.svg" /></p>
       
@@ -215,8 +219,7 @@ I enjoy discovering new tools and progressing on my learning journey, I'm curren
       />
       <br /><strong>AWS</strong>
     </td> -->
-  </tr>
-</table>
+  
 <!--
 **MDDiallo9/MDDiallo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
