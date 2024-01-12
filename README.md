@@ -123,7 +123,6 @@ I enjoy discovering new tools and progressing on my learning journey, I'm curren
 </table>
     
   
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg
    <!--<p align="center"><b><em>Visitors Count</em></b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ro-yeee}/count.svg" /></p>
       
