@@ -62,6 +62,9 @@ I enjoy discovering new tools and progressing on my learning journey, I'm curren
       />
       <br /><strong>Git</strong>
     </td>
+    
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -80,8 +83,6 @@ I enjoy discovering new tools and progressing on my learning journey, I'm curren
       />
       <br /><strong>Webpack</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
